@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+gunicorn
+sklearn.metrics.pairwise
+pickle
